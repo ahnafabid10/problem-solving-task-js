@@ -1,3 +1,4 @@
+//  Sum of All Numbers in an Array
 let a = [1, 2, 3, 4]
 let sum = 0
 
